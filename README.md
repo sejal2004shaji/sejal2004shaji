@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejal2004shaji" alt="sejal2004shaji" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Software Developers**
 

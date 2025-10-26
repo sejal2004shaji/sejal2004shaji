@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal2004shaji&label=Profile%20views&color=0e75b6&style=flat" alt="sejal2004shaji" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JS,Python,SQL(oracle),Django**
+- 🌱 I’m currently learning **HTML,CSS,JS,Python,SQL(oracle),Django,React.JS,DevOps**
 
 - 👯 I’m looking to collaborate on **Software Developers**
 

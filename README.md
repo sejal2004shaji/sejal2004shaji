@@ -1,22 +1,63 @@
 <h1 align="center">Hi 👋, I'm Sejal Shaji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+  Frontend Developer focused on building responsive, accessible, and user-friendly web interfaces
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal2004shaji&label=Profile%20views&color=0e75b6&style=flat" alt="sejal2004shaji" /> </p>
-
-- 🌱 I’m currently learning **HTML,CSS,JS,Python,SQL(oracle),Django,React.JS,DevOps**
-
-- 👯 I’m looking to collaborate on **Software Developers**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **sejalshaji10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sejal-shaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sejal-shaji" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejal2004shaji&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejal2004shaji&show_icons=true&locale=en&layout=compact" alt="sejal2004shaji" /></p>
+<h3 align="left">🚀 About Me</h3>
+
+<ul>
+  <li>🌱 Currently learning <b>HTML, CSS, JavaScript, Python, SQL (Oracle), Django</b></li>
+  <li>👯 Looking to collaborate on <b>Web & Software Development projects</b></li>
+  <li>👨‍💻 All projects available at:
+    <a href="https://sejal2004shaji.github.io/Portfolio/" target="_blank">
+      Portfolio Website
+    </a>
+  </li>
+  <li>💬 Ask me about <b>Frontend & Web Development</b></li>
+  <li>📫 Reach me at <b>sejalshaji10@gmail.com</b></li>
+</ul>
+
+<hr/>
+
+<h3 align="left">🔗 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sejal-shaji" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+</p>
+
+<hr/>
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle SQL"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+</p>
+
+<hr/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal2004shaji&layout=compact" />
+</p>
+
+
